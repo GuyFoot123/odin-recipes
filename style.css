@@ -1,3 +1,16 @@
 body {
     font-family: 'Courier New', Courier, monospace;
+    width: 500px;
+    margin: auto;
+    background: darkslategray;
+    color: white;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+hr {
+    color: white;
 }
